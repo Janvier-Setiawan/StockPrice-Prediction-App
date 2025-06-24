@@ -1,0 +1,5 @@
+flask
+flask-cors
+tensorflow==2.15.0
+yfinance
+numpy
